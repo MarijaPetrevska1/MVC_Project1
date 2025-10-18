@@ -14,7 +14,7 @@ Throughout the process, I followed the steps from the tutorial while writing and
 The result is a **functional e-commerce website** where customers can view products, add them to a cart, and make payments.  
 Admins can manage categories, products, and orders through a secure dashboard.
 
-## 🚀 Features
+## Features
 - ASP.NET Core MVC architecture  
 - Repository and Unit of Work pattern  
 - Identity authentication and role-based authorization  
