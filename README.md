@@ -37,4 +37,6 @@ Admins can manage categories, products, and orders through a secure dashboard.
 - **C#**
 
 ⭐ Feel free to check out my other projects on [https://github.com/MarijaPetrevska1](https://github.com/MarijaPetrevska1)
+## 🖤 Acknowledgment
+> Made with passion and curiosity while learning full-stack web development using ASP.NET Core.
 
