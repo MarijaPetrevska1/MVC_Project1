@@ -36,5 +36,5 @@ Admins can manage categories, products, and orders through a secure dashboard.
 - **Toastr, SweetAlert2, TinyMCE**
 - **C#**
 
-⭐ Feel free to check out my other projects on [https://github.com/MarijaPetrevska1](https://github.com/MarijaPetrevska)
+⭐ Feel free to check out my other projects on [https://github.com/MarijaPetrevska1](https://github.com/MarijaPetrevska1)
 
