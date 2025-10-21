@@ -26,7 +26,7 @@ Admins can manage categories, products, and orders through a secure dashboard.
 - DataTables integration  
 - TinyMCE rich text editor for product descriptions  
 
-## 🏗️ Technologies Used
+## Technologies Used
 - **ASP.NET Core MVC 8.0**
 - **Razor Views**
 - **Entity Framework Core**
